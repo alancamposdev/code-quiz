@@ -18,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Como usar
 
-1. Acesse a aplicação pelo link: [CODE QUIZ]()
+1. Acesse a aplicação pelo link: [CODE QUIZ](https://alancamposdev.github.io/code-quiz/)
 
 ## Imagem do Projeto ✨
 
